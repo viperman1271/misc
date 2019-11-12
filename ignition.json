@@ -1,0 +1,21 @@
+{
+  "ignition": {
+    "config": {},
+    "timeouts": {},
+    "version": "2.1.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDsv6YvxPthVE4CYF3yK+Ymc4ZKO/6iIWhiTx7Cs8vOJWALifpX/PPIX2knvTl1npzS9iaPVOMKsEdVnRBgprvav1zI7R2FMh1gmQV/Vw6SDsxenihv+r1ks5FqfINukLepKdSWIvm6mlcESbsPUPa8i8ywPaapFCBkZymErc7PvQArLBhROjQPhesk4Vv7UQ8iJyForRN6NG2ikEFDrB9i/8+u6zsPcJoiOfKs/oweXdkJ4/1jaczFS/E6Om25Hjps9qdokZn3ADfBcO/JzVA6+bDWg6W07n+OXa8qVrBZvnPpuxdQa3Mle7rcmjX78YUh2uyMEb+RBrLbBYrDJnOl mfilion@DESKTOP-CTQ14MG",
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3k/ZRCxegBD910QuBDX6d62e8QOLbHa8jZMu10wBa/9eIugQKJXT1epHcNIltAmu7NakGvqVc/0IJJPIqO0ckq/D9DUi37cJ+h+9HlH/rhdVNEjdzJs+jIy1gw00V6pjcmNj2GM4mDytKZF6FH+Ci3ESo2MRZw/Itc6smHCwF/zVUnrbIZER6kcDxHoKTfCyJ4s07PHyH0yb5ehMfL0BKLhL2vZQD6haIXjUUgurdGFqEvql/ukKwxqrxxgZ4wwCrEU3Vt11WjkryNU64F+lMDENNzcfh7zsfi3v9hpKhCtMwSrXmLMIaJPhxR126+VBpcuiDFuTJURdHYEbZ1aBF mfilion@DESKTOP-CHECKER"
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
